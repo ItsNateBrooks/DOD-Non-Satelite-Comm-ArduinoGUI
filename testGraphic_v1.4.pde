@@ -80,7 +80,7 @@ void controlEvent(ControlEvent theEvent) {
     println("controlEvent: accessing a string from controller 'input' : "
       +textValue);
     //==========================================================
-    //myPort.write(textValue);
+    myPort.write(textValue);
     //==========================================================
   }
   if (theEvent.getController().getName()=="Submit") {
@@ -88,7 +88,7 @@ void controlEvent(ControlEvent theEvent) {
     println("controlEvent: accessing a string from controller 'input' : "
       +textValue);
     //==========================================================
-    //myPort.write(textValue);
+    myPort.write(textValue);
     //==========================================================
     cp5.get(Textfield.class, "Input: ").clear();
   }
