@@ -96,6 +96,7 @@ void draw() {
   if(myPort.available() > 0){
     textValue = textValue + myPort.readString();
     
+    System.out.print(textValue);
     System.out.print(myPort.readStringUntil('\n'));
     
   }
