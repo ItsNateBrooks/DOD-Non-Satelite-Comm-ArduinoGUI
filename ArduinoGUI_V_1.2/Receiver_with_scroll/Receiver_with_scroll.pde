@@ -14,6 +14,7 @@ PFont inputFont;
 PFont buttonFont;
 
 String textValue = "RECIEVED: ";
+String recievedString = "";
 String fileName = "";
 String fileContents = "";
 
