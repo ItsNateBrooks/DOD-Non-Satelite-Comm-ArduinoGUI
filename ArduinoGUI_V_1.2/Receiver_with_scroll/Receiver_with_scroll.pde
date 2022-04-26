@@ -14,7 +14,6 @@ PFont inputFont;
 PFont buttonFont;
 
 String textValue = "RECIEVED: ";
-String recievedString = "According to all known laws of aviation";
 String fileName = "";
 String fileContents = "";
 
