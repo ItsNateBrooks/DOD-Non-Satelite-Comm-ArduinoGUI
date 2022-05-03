@@ -19,8 +19,8 @@ ECE
 
 # Installation
 There are two needed IDEs, 1. ArduinoIDE and 2. Processing IDE. From there, 
-libraries will need to be install in each. For Processing IDE, install the ControlP5 and Serial Libraries.
-
+libraries will need to be install in each. For Processing IDE, install the ControlP5 and Serial Libraries. 
+For Arduino IDE, install the SoftwareSerial library.
 # Usage
 Open one instance of each IDE for each file, and then open the file in its respective IDE. 
 (.ino in ArduinoIDE and .pde in Processing IDE)
