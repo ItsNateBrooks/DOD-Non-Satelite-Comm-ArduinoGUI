@@ -32,5 +32,5 @@ to the arduino.
 ## Sender
 ![GUI Sender](https://cdn.discordapp.com/attachments/522614657400176650/972234251481255966/GUI_Sender.png)
 ## Reciever
-![GUI Receiver](https://cdn.discordapp.com/attachments/522614657400176650/972234251481255966/GUI_Sender.png)
+![GUI Receiver](https://cdn.discordapp.com/attachments/522614657400176650/972234251179270144/GUI_Receiver.png)
 
