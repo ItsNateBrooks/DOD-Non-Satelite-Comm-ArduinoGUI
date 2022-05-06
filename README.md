@@ -30,6 +30,6 @@ to the arduino.
 
 # Images
 ## Reciever
-![GUI Receiver](/GUI Receiver.png)
+![GUI Receiver](/Images/GUI Receiver.png)
 ## Sender
-![GUI Sender](/GUI Sender.png)
+![GUI Sender](/Images/GUI Sender.png)
