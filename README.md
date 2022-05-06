@@ -29,7 +29,8 @@ into a arduino with the proper configuration. From there setup the ports accordi
 to the arduino.
 
 # Images
-## Reciever
-![GUI Receiver](/Images/GUI Receiver.png)
 ## Sender
-![GUI Sender](/Images/GUI Sender.png)
+![GUI Sender](https://cdn.discordapp.com/attachments/522614657400176650/972234251481255966/GUI_Sender.png)
+## Reciever
+![GUI Receiver](https://cdn.discordapp.com/attachments/522614657400176650/972234251481255966/GUI_Sender.png)
+
