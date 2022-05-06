@@ -27,3 +27,9 @@ Open one instance of each IDE for each file, and then open the file in its respe
 These instances can be done on the same or different devices, but each device will need to be plugged
 into a arduino with the proper configuration. From there setup the ports accordingly and send the code
 to the arduino.
+
+# Images
+## Reciever
+![GUI Receiver](/GUI Receiver.png)
+## Sender
+![GUI Sender](/GUI Sender.png)
